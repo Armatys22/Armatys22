@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi there 👋</h1>
-<p>My name is Mr. dom and I'm the student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p>My name is Mr. dom and I'm the student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
+- 🌱 I’m currently learning ... comuter sicence , html ,javascript, css
+- 💬 Ask me about ... jesus
+- 📫 How to reach me: instagram ,snapchat and wassap
+- ⚡ Fun fact: ... i lisen to the bible adiuo book 
+</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
