@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hi there 👋</h1>
 <p>My name is Mr. dom and I'm the student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
+
 -🌱 I’m currently learning ... comuter sicence , html ,javascript, css
 
 - 💬 Ask me about ... jesus
