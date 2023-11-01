@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/search?q=user%3AArmatys22+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AArmatys22+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3AArmatys22+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AICS2O-Unit-3-04-Armatys22+language%3AC"><img alt="C" src="https://img.shields.io/badge/C-1572B6.svg?logo=C3&logoColor=red"></a>
 
 </p>
 
