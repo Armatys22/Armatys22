@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 ## ✍💻 Social Coding
 
-![Social Coding](./images/social_coding.jpg)
+![Social Coding](download.jpeg)
